@@ -3,7 +3,7 @@
 Thread-safe, in-memory backend for booking movie tickets (no DB). Provides a clean C++ API, CLI demo, and unit tests.
 
 ## Technical Insights & Demo document:
-BookingService_TechnicalBrief_and_DemoGuide.pdf
+BookingService_TechnicalBrief_and_DemoGuide_V1.pdf
 
 ## Build & Run
 ```bash
