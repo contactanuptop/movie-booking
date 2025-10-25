@@ -1,0 +1,10 @@
+[requires]
+# External packages required for this minimal project
+args/6.4.6
+
+[generators]
+CMakeToolchain
+CMakeDeps
+
+[layout]
+cmake_layout

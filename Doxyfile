@@ -1,0 +1,6 @@
+PROJECT_NAME           = "Booking C++"
+OUTPUT_DIRECTORY       = docs
+GENERATE_HTML          = YES
+RECURSIVE              = YES
+INPUT                  = include src
+QUIET                  = YES
